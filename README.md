@@ -1,5 +1,8 @@
+![Model](https://github.com/Temorinkaari/Private/blob/main/ghb.png)
+
 ### Hi there 👋
 
+I'm currently a Data Analytics student at Turing College. Stay tuned for more projects! 
 <!--
 **Temorinkaari/Temorinkaari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
